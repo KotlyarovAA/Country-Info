@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="700"
+   id="svg13818"
+   sodipodi:version="0.32"
+   inkscape:version="0.44.1"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\Sigurd\Mine dokumenter\Mine bilder"
+   sodipodi:docname="Miss World logo.svg">
+  <defs
+     id="defs13820" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="375"
+     inkscape:cy="360.07914"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="700px"
+     height="700px"
+     inkscape:window-width="845"
+     inkscape:window-height="584"
+     inkscape:window-x="132"
+     inkscape:window-y="132" />
+  <metadata
+     id="metadata13823">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:black;stroke-width:3.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path10254"
+       sodipodi:cx="108.775"
+       sodipodi:cy="29.369738"
+       sodipodi:rx="25.310526"
+       sodipodi:ry="25.310526"
+       d="M 134.08553 29.369738 A 25.310526 25.310526 0 1 1  83.464476,29.369738 A 25.310526 25.310526 0 1 1  134.08553 29.369738 z"
+       transform="matrix(12.28765,0,0,12.28765,-986.589,-10.88507)" />
+    <g
+       id="g12040"
+       transform="matrix(12.86448,0,0,12.86448,-1050.026,-23.8129)"
+       style="stroke:black;stroke-opacity:1">
+      <g
+         transform="matrix(0.860041,0,0,1,15.2241,-2.109211)"
+         id="g12030"
+         style="stroke:black;stroke-opacity:1">
+        <path
+           style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 92.051974,30.123027 L 92.051974,15.358553 L 98.680926,15.358553 L 108.32303,25.000658 L 108.32303,30.424342 L 106.51514,30.424342 L 96.873027,20.179606 L 96.873027,30.123027 L 92.051974,30.123027 z "
+           id="path11141"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 125.49803,30.123028 L 125.49803,15.358554 L 118.86908,15.358554 L 109.22698,25.000659 L 109.22698,30.424343 L 111.03487,30.424343 L 120.67698,20.179607 L 120.67698,30.123028 L 125.49803,30.123028 z "
+           id="path12028"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <g
+         transform="matrix(0.860041,0,0,-1,15.22404,60.09539)"
+         id="g12034"
+         style="stroke:black;stroke-opacity:1">
+        <path
+           style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 92.051974,30.123027 L 92.051974,15.358553 L 98.680926,15.358553 L 108.32303,25.000658 L 108.32303,30.424342 L 106.51514,30.424342 L 96.873027,20.179606 L 96.873027,30.123027 L 92.051974,30.123027 z "
+           id="path12036"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:black;fill-opacity:1;fill-rule:evenodd;stroke:black;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 125.49803,30.123028 L 125.49803,15.358554 L 118.86908,15.358554 L 109.22698,25.000659 L 109.22698,30.424343 L 111.03487,30.424343 L 120.67698,20.179607 L 120.67698,30.123028 L 125.49803,30.123028 z "
+           id="path12038"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>
